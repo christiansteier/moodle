@@ -1,3 +1,3 @@
-# moodle
+# Moodle
 
-Use the branshes to find mods, blocks or themes
+Use bransh to find mods, blocks or themes
