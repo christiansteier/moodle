@@ -1,13 +1,12 @@
 Moodle theme anomalyred
 ====================
 
-This theme was part of the Moodle core distribution, but has now been moved to a separate repository.
+This theme is a fork of [anomaly theme] (https://github.com/moodlehq/moodle-theme_anomaly)
 
-Installation
+Modifications
 ------------
-
-The best way to install this plugin is to get a copy from [moodle.org](https://moodle.org/plugins/view.php?plugin=
-theme_anomalyred).
+* style modifications to change green colour to red
+* own icon set in red
 
 License
 -------
