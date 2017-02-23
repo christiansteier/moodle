@@ -1,0 +1,1 @@
+Modified Icons from Nitrux Iconset by deviantn7k1: http://deviantn7k1.deviantart.com/art/Nitrux-OS-Icons-293634207
